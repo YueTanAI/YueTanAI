@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @LongxingTan
-- 👀 I’m interested in machine learning
+- 👋 Hi, I’m @Tarou
+- I’m interested in machine learning
 
